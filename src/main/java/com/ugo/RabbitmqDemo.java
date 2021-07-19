@@ -6,4 +6,7 @@ package com.ugo;
  * @Description：
  */
 public class RabbitmqDemo {
+    public static void main(String[] args) {
+        System.out.println("rabbitmq first commit");
+    }
 }
