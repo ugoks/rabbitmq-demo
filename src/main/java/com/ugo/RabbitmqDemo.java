@@ -8,5 +8,6 @@ package com.ugo;
 public class RabbitmqDemo {
     public static void main(String[] args) {
         System.out.println("rabbitmq first commit");
+        System.out.println("123456");
     }
 }
